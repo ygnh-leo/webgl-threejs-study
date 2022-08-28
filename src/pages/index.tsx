@@ -22,4 +22,8 @@ const list = [
 		label: 'TransformObject',
 		path: 'transform-object',
 	},
+	{
+		label: 'Animations',
+		path: 'animations',
+	},
 ]
